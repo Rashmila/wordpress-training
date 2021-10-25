@@ -12,4 +12,4 @@
   https://wordpress.org/download/
 ## Download bootstrap
   https://getbootstrap.com/docs/4.0/getting-started/download/
-Download required wordpress plugin
+## Download required wordpress plugin
